@@ -1,0 +1,62 @@
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+train: ../data/datasets/dados/images/train  # train images (relative to 'path') 90% of 847 train images
+val: ../data/datasets/dados/images/val  # train images (relative to 'path') 10% of 847 train images
+# Classes
+nc: 53
+names:
+  0: As de picas
+  1: As de trebol
+  2: As de diamante
+  3: As de corazon
+  4: 2 de picas
+  5: 2 de trebol
+  6: 2 de diamante
+  7: 2 de corazon
+  8: 3 de picas
+  9: 3 de trebol
+  10: 3 de diamante
+  11: 3 de corazon
+  12: 4 de picas
+  13: 4 de trebol
+  14: 4 de diamante
+  15: 4 de corazon
+  16: 5 de picas
+  17: 5 de trebol
+  18: 5 de diamante
+  19: 5 de corazon
+  20: 6 de picas
+  21: 6 de trebol
+  22: 6 de diamante
+  23: 6 de corazon
+  24: 7 de picas
+  25: 7 de trebol
+  26: 7 de diamante
+  27: 7 de corazon
+  28: 8 de picas
+  29: 8 de trebol
+  30: 8 de diamante
+  31: 8 de corazon
+  32: 9 de picas
+  33: 9 de trebol
+  34: 9 de diamante
+  35: 9 de corazon
+  36: 10 de picas
+  37: 10 de trebol
+  38: 10 de diamante
+  39: 10 de corazon
+  40: J de picas
+  41: J de trebol
+  42: J de diamante
+  43: J de corazon
+  44: Q de picas
+  45: Q de trebol
+  46: Q de diamante
+  47: Q de corazon
+  48: K de picas
+  49: K de trebol
+  50: K de diamante
+  51: K de corazon
+  52: Comodin
+
+
